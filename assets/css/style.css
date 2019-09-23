@@ -224,7 +224,7 @@ input[type=submit] {
   .main-section {width: 100%}
 }
 
-@media screen and (max-width: 6768px) {
+@media screen and (max-width: 768px) {
   body {width: 100%}
   header {width: 100%}
   .container {width: 100%}
